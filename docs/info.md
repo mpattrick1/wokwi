@@ -10,12 +10,12 @@ You can also include images in this folder and reference them in the markdown. E
 ## How it works
 
 Explain how your project works
-Nand gate connected to input a and b, the output is connected to a 7 segment display, pin 0, the rest of the pins are unaltered and connected to inputs 2-7 of the display.
+7 Segment Display Connected to 8 bit switch
 
 ## How to test
 
-Just check inputs 1 and 2, flick them on using the red switches while programme is running.
+Check the inputs
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+N/A
