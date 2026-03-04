@@ -8,13 +8,18 @@ You can also include images in this folder and reference them in the markdown. E
 -->
 
 ## How it works
-
-Explain how your project works
-7 Segment Display Connected to 8 bit switch
+NAND Gate connected to input a and b of an 8 bit swtich
 
 ## How to test
 
-Check the inputs
+Set the inputs and check the outputs match.
+
+| Input A | Input   B | Output NAND |
+|---------|-----------|-------------|
+|    0    |     0     |      1      |
+|    0    |     0     |      1      |
+|    0    |     0     |      1      |
+|    0    |     0     |      1      |
 
 ## External hardware
 
