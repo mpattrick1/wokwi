@@ -19,7 +19,7 @@ Set the inputs and check the outputs match.
 |    0    |     0     |      1      |
 |    0    |     0     |      1      |
 |    0    |     0     |      1      |
-|    0    |     0     |      1      |
+|    0    |     0     |      0      |
 
 ## External hardware
 
